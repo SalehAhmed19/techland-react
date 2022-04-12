@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "user_name": "John Quil",
+      "review": "I'm a fan of apple products and I like almost everything about this new MBA. But it has one huge flaw that nobody talks about. It's the camera hardware and it hasn't been updated in ages. My zoom calls are so grainy and bad even with decent light. Camera is very important to me. Especially now that we all are quarantined at home and making zoom calls all the time.",
+      "img": "https://www.business2community.com/wp-content/uploads/2014/04/profile-picture.jpg",
+      "ratings" : 4.5
+    },
+    {
+      "id": 2,
+      "user_name": "Glad I. Oli",
+      "review": "The M1 chip really is amazing. But it only lasted five days for me. Somehow mine managed to break after using a third party USB C hub. The screen wouldn’t turn on at all, and an Apple repair tech couldn’t figure it out after doing a few quick tests. Oh and then Apple said it would take a month to replace it with a new one.",
+      "img":"https://i.insider.com/5899ffcf6e09a897008b5c04?width=600&format=jpeg&auto=webp",
+      "ratings" : 4.8
+    },
+    {
+      "id": 3,
+      "user_name": "Frank N. Stein",
+      "review": "Beautiful laptop. I’ve upgraded from the MacBook Air of old...so far this laptop has blown it away. It wasn’t overly pricey to be honest and I feel it’s worth the price. Overall look is great and keyboard feel is nice. Larger touchpad is great, I’ve paired my Magic Trackpad 2 with it as well",
+      "img":"https://images.squarespace-cdn.com/content/v1/5d96fc780e85b877a919f4f2/1581958874474-WY8QJZ0N8K1L8M5POG5U/image-asset.jpeg",
+      "ratings" : 4.4
+    },
+    {
+      "id": 4,
+      "user_name": "Hank R. Cheef",
+      "review": "No complains so far. Very fast and performs great. I had a 2014 MacBook Air and finally upgraded this year. This is leagues beyond that entry and I’m very happy with this upgrade.",
+      "img":"http://lavinephotography.com.au/wp-content/uploads/2017/01/PROFILE-Photography-101-e1485815933252.jpg",
+      "ratings" : 5.0
+    },
+    {
+      "id": 5,
+      "user_name": "Joe V. Awl",
+      "review": "Out of the box unusable for me. This MacBook Pro does not have any USB ports to be able to restore from a previous Mac back up that’s on an external drive. You must buy an adapter. Since I live in a remote area I’d have to order online and wait. You cannot even plug a iPhone12 Pro Max directly into it. The only ports it has are thunderbolt. So even Apple’s own lighting connector needs an adapter. The keyboard is a downgrade from the old keyboard. Solid black plastic instead of plastic keys surrounded by aluminum which were easier to see. Had to call Apple support to download an update because there is no reset option in the System Preferences of OS Monterey. And the update did not work to give it that option. Will have to figure out a different option to remove my account and information to return it. This particular MacBook is defective I believe.",
+      "img":"https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "ratings" : 4.5
+    },
+    {
+      "id": 6,
+      "user_name": "Hugh N. Cry",
+      "review": "I was so excited to buy my first MacBook. Opened the first one and nothing zip, zero, dead. Charged it, called Apple, who told me to return it. It took over an hour to get Amazon to accept the return and ship me a replacement. Next morning get MacBook number 2- super excited because I open it and it comes on and sings a song! Loved it for the 3 hours it worked. It updated and Locked me out. Did everything they told me to do online, call Apple that admits they are having this issue and I can return it for another one! Since it’s not 14 days old. No thanks. I am done. Since Apple told me to return it this time Amazon was amazing and is picking it up for return tomorrow. This was a crappy experience. I love my iPad Pro and iPhones- no more MacBook for me.",
+      "img":"https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8&w=1000&q=80",
+      "ratings" : 4.9
+    }
+  ]

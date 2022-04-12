@@ -1,0 +1,9 @@
+.btn:hover{
+    color: #fff;
+    background: #F87315;
+    transition: ease-in 0.3s;
+}
+/* .review-highlights{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+} */
